@@ -1,0 +1,57 @@
+    MAIN MENU
+
+ 1. BOOK ISSUE
+ 2. BOOK DEPOSIT
+ 3. ADMINISTRATOR MENU
+      1. CREATE STUDENT RECORD
+      2. DISPLAY ALL STUDENTS RECORD
+      3. DISPLAY SPECIFIC STUDENT RECORD
+      4. MODIFY STUDENT RECORD
+      5. DELETE STUDENT RECORD
+      6. CREATE BOOK
+      7. DISPLAY ALL BOOKS
+      8. DISPLAY SPECIFIC BOOK
+      9. MODIFY BOOK
+     10. DELETE BOOK
+     11. BACK TO MAIN MENU
+4. EXIT
+
+
+Book Class:
+    1. Book no.
+    2. Book name
+    3. Book Aurthor
+    4. show_book()
+    5. modify_book()
+    6. return_book_no()
+    7. report()
+
+student Class:
+    1. Id
+    2. name
+    3. token
+    4. std_book no.
+    5. create account()
+    6. show_info()
+    7. modify()
+    8. return_id
+    9. return_std book no()
+   10. return_token()
+   11. add_token()
+   12. reset_token()
+   13. report()
+
+Function:
+    1. write_book
+    2. write_std
+    3. Book_list
+    4. students_list
+    5. Book_modify
+    6. student_modify
+    7. delete_student
+    8. delete_book
+    9. student_info
+   10. book_info
+   11. book_issue
+   12. book_deposit
+   13. into
